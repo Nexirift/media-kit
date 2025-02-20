@@ -34,16 +34,10 @@ If you have any questions or requests regarding the use of these media assets, p
 | ----------------------------- | ----------------------------------------------- |
 | ![logo](nexirift/logo-bg.jpg) | ![logo-coloured](nexirift/logo-coloured-bg.jpg) |
 
-### Spark
-
-#### SVGs
-
-| Logo                    | Banner                      |
-| ----------------------- | --------------------------- |
-| ![logo](spark/logo.svg) | ![banner](spark/banner.svg) |
+### Cosmos
 
 #### PNGs
 
 | Logo                    | Banner                      |
 | ----------------------- | --------------------------- |
-| ![logo](spark/logo.png) | ![banner](spark/banner.png) |
+| ![logo](cosmos/logo.png) | ![banner](cosmos/banner.png) |
