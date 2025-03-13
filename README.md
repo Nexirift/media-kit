@@ -16,28 +16,34 @@ If you have any questions or requests regarding the use of these media assets, p
 
 ### Nexirift
 
+These resources were designed for Nexirift by [Jacky](https://github.com/Jackyd4w).
+
 #### SVGs
 
-| Logo                       | Logo Coloured                                | Banner                         |
-| -------------------------- | -------------------------------------------- | ------------------------------ |
-| ![logo](nexirift/logo.svg) | ![logo-coloured](nexirift/logo-coloured.svg) | ![banner](nexirift/banner.svg) |
+| Logo                       | Banner                         |
+| -------------------------- | ------------------------------ |
+| ![logo](nexirift/logo.svg) | ![banner](nexirift/banner.svg) |
 
 #### PNGs
 
-| Logo                       | Logo Coloured                                | Banner                         |
-| -------------------------- | -------------------------------------------- | ------------------------------ |
-| ![logo](nexirift/logo.png) | ![logo-coloured](nexirift/logo-coloured.png) | ![banner](nexirift/banner.png) |
+| Logo                       | Banner                         |
+| -------------------------- | ------------------------------ |
+| ![logo](nexirift/logo.png) | ![banner](nexirift/banner.png) |
 
 #### JPGs
 
-| Logo w/ Background            | Logo Coloured w/ Background                     |
-| ----------------------------- | ----------------------------------------------- |
-| ![logo](nexirift/logo-bg.jpg) | ![logo-coloured](nexirift/logo-coloured-bg.jpg) |
+| Logo w/ Background            | Social Banner                                |
+| ----------------------------- | -------------------------------------------- |
+| ![logo](nexirift/logo-bg.jpg) | ![social-banner](nexirift/social-banner.jpg) |
+
+### Reference
+
+![ref](nexirift/ref.png)
 
 ### Cosmos
 
 #### PNGs
 
-| Logo                    | Banner                      |
-| ----------------------- | --------------------------- |
+| Logo                     | Banner                       |
+| ------------------------ | ---------------------------- |
 | ![logo](cosmos/logo.png) | ![banner](cosmos/banner.png) |
